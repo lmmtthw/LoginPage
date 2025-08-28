@@ -124,8 +124,8 @@ struct DashboardView: View {
     }
 }
 ```
+**⚡ How to Run**
 ```
-⚡ How to Run
 Open project in Xcode 15+
 Ensure you have a Background image in Assets.xcassets
 Build & run on Simulator or device (⌘R)
