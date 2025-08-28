@@ -1,5 +1,10 @@
 ## 📱 NameApp
 
+![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-Framework-blue?logo=swift)
+![Xcode](https://img.shields.io/badge/Xcode-15-blue?logo=xcode)
+![iOS](https://img.shields.io/badge/iOS-17-lightgrey?logo=apple)
+
 A simple SwiftUI iOS app with a login screen and a dashboard view.
 The app demonstrates the MVVM pattern (Model, View, ViewModel in one file), navigation with NavigationLink, and basic authentication.
 
